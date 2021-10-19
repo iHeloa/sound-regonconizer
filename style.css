@@ -1,0 +1,16 @@
+.copy_right_footer{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    text-align: center;
+    background-color: grey;
+    color: gold;
+}
+.aliens{
+    background-color:gold;
+    box-shadow: 10px 10px 10px grey;
+    width: 90%;
+    padding: 20px;
+    border: 5px solid grey;
+    border-radius: 40px;
+}
